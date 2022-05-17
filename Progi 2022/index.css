@@ -9,7 +9,56 @@
 height: 100px;
 padding: 20px;
 text-align: right;
+background-image: url("images/erdely.jpg");
+background-position: center;
+color: white;
  }
+
+ body
+ {
+margin:0px
+ }
+
+ nav
+ {
+color: wheat;
+padding-left: 30px;
+ }
+
+ nav a
+ {
+color: skyblue;
+text-decoration: none;
+ }
+
+ nav li
+ {
+list-style-type: none;
+padding: 10px;
+ }
+
+ nav ul
+ {
+padding:0px;
+ }
+
+ nav a:hover li
+ {
+color:springgreen;
+background-color:royalblue
+ }
+
+ footer
+ {
+text-align: center;
+min-height: 50px;
+padding-top:15px;
+ }
+ 
+
+
+
+
  
  
  
@@ -18,7 +67,7 @@ text-align: right;
 background-color: orange;
 }
 
-nav{background-color: red;}
+nav{background-color: rgb(243, 186, 0);}
 
 .jobbsav
 {
