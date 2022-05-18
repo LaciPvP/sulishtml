@@ -55,6 +55,23 @@ min-height: 50px;
 padding-top:15px;
  }
  
+.infobox
+{
+padding-right: 30px;
+background-color: darkturquoise;
+border: double;
+margin: 10px;
+padding: 5px;
+border-radius: 20px;
+}
+
+div h3
+{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: blueviolet;
+text-decoration: underline;
+text-align: center;
+}
 
 
 
@@ -71,7 +88,7 @@ nav{background-color: rgb(243, 186, 0);}
 
 .jobbsav
 {
-background-color: blue;
+background-color: blanchedalmond;
 }
 
 .tartalom
