@@ -96,6 +96,13 @@ text-decoration: double;
 font-variant: small-caps;
 background-image: ;
 }
+.tartalom picture *
+{
+max-width:100%;
+float: left;
+margin: right 10px;
+
+}
 
 
 
